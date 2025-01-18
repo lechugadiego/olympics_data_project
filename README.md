@@ -2,6 +2,8 @@
 
 This repo contains a comprehensive dataset on summer & winter Olympic athletes & their results between 1896-2022
 
+# This project involves taking the raw data from [olympedia.org](https://www.olympedia.org/) and cleaning it up using Pandas to make it easier to analyze.
+
 <img src="./assets/usain.jpg" width="600" alt="Usain Bolt">
 
 ## Dataset info & collection process
@@ -15,4 +17,4 @@ Note, in the process of scraping this dataset, temporary CSV files were created 
 
 ## Clean Data
 
-Easier to analyze data can be found in [clean-data/](./clean-data/) folder. In addition to the results and bios info, you can find data files with additional lat/long location data for athletes, NOC region codes, and historic populations of countries over time.
+Easier to analyze data can be found in [clean-data/](./clean-data/) folder. In addition to the results and bios info, you can find data files with additional lat/long location data for athletes, NOC (National Olympic Committee) region codes, and historic populations of countries over time.
