@@ -1,8 +1,8 @@
 # Olympics-Dataset
 
-This repo contains a comprehensive dataset on summer & winter Olympic athletes & their results between 1896-2022 (will be updated with 2024 results after the upcoming Paris Games)
+This repo contains a comprehensive dataset on summer & winter Olympic athletes & their results between 1896-2022
 
-![Olympic Flame](./assets/olympic_flame.jpeg)
+<img src="./assets/usain.jpg" width="600" alt="Usain Bolt">
 
 ## Dataset info & collection process
 
